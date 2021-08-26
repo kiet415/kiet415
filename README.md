@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kiet415/kiet415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Kiet Nguyen and I'm a software engineer who majored in Computer Science at University of California Santa Cruz, and
 pursued for additional education at App Academy to develop skills and learn more about modern technology that company uses.
 
@@ -13,7 +10,7 @@ I also worked alongside two other engineers to create another single page web ap
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my full stack project 
+- 🔭 I’m currently working on my full stack project [Kelp](https://kelp-kiet.herokuapp.com/) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can do a one-handed cartwheel!
 
