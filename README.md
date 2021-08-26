@@ -10,6 +10,5 @@ I also worked alongside two other engineers to create another single page web ap
 
 - 🔭 I’m currently working on my full stack project [Kelp](https://kelp-kiet.herokuapp.com/) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can do a one-handed cartwheel!
-
+- ⚡ Fun fact: I can do a one-handed cartwheel!        ![coding](https://thumbs.dreamstime.com/b/cartoon-coder-young-man-programmer-tablet-working-desk-composition-professional-flat-male-character-186013231.jpg)
 
